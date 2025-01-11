@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Literary App",
+    "imageSrc": "../../assets/project/project.png",
+    "description": "This project is made using basics of Web development technologies to have in-depth knowledge of them. ",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Page",
+    "imageSrc": "../../assets/project/project.png",
+    "description": "This project is made using React to learn and showcase my ability as a Developer",
+    "skills": ["React", "Vite", "Npm", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Ecommerce Portal",
+    "imageSrc": "../../assets/project/project.png",
+    "description": "This is a project made to learn Mern stack Javascript languages by building an ecommerce portal.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Literary App",
+    "imageSrc": "../../assets/project/project.png",
+    "description": "This project is made using basics of Web development technologies to have in-depth knowledge of them. ",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Page",
+    "imageSrc": "../../assets/project/project.png",
+    "description": "This project is made using React to learn and showcase my ability as a Developer",
+    "skills": ["React", "Vite", "Npm", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Ecommerce Portal",
+    "imageSrc": "../../assets/project/project.png",
+    "description": "This is a project made to learn Mern stack Javascript languages by building an ecommerce portal.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

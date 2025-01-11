@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Intern for R&D Department ",
+      "organisation": "Software AG",
+      "startDate": "March, 2017",
+      "endDate": "Nov, 2017",
+      "experiences": ["Assisted in maintaining and managing existing modules","Created Restful Web Services(API) for an event conducted by the company", "Developed Mobile App using Ionic Framework"],
+      "imageSrc": "../../assets/history/Software AG.jpg"
+    }
+  ]
