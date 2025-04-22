@@ -50,7 +50,7 @@
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
 }
 .heroImage{
-    width:50%;
+    width:30%;
     z-index: 1;
     animation-name: floating;
     animation-duration: 3s;
@@ -102,5 +102,8 @@
     }
     .content{
         align-items: center;
+    }
+    .heroImage{
+        width:50%;
     }
 }
