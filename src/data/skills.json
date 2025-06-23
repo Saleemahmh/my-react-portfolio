@@ -28,6 +28,10 @@
       "imageSrc": "../../assets/skills/icons8-javascript.png"
     },
     {
+      "title": "Tailwind CSS",
+      "imageSrc": "../../assets/skills/tailwind-css.png"
+    },
+    {
       "title": "Java",
       "imageSrc": "../../assets/skills/icons8-java.png"
     }
