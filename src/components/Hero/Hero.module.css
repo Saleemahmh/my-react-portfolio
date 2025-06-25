@@ -21,23 +21,27 @@
     font-size: 72px;
     font-weight: 900;
     margin-bottom: 33px;
-    background: linear-gradient(90deg,
+    /* background: linear-gradient(90deg,
      rgba(255,255,255,1)70%,
      rgba(255,255,255,0)120%
-     );
+     ); */
+     background: linear-gradient(90deg, #fff 70%, transparent 120%);
      -webkit-text-fill-color: transparent;
-     -webkit-background-clip: text;
+     background-clip: text;
+     color: white;
 }
 .description{
     font-family: var(--font-merienda);
     font-size:30px ;
-    background: linear-gradient(190deg,
+    /* background: linear-gradient(190deg,
     rgb(250, 211, 255)70%,
     rgba(255,255,255,0)120%
-    );
+    ); */
+    background: linear-gradient(190deg, rgb(250, 211, 255) 70%, transparent 120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    background-clip: text;
     margin-bottom: 52px;
+    color: rgb(250, 211, 255); /* Fallback */
 }
 .contactBtn{
     text-decoration: none;
