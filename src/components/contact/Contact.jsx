@@ -1,8 +1,8 @@
-import React from 'react';
+
 import styles from './Contact.module.css';
-import linkedinImg from '../../../assets/contact/linkedinIcon.png';
-import emailImg from '../../../assets/contact/emailIcon.png';
-import githubImg from '../../../assets/contact/githubIcon.png'
+import linkedinImg from '../../assets/contact/linkedinIcon.png';
+import emailImg from '../../assets/contact/emailIcon.png';
+import githubImg from '../../assets/contact/githubIcon.png'
 
 export const Contact = () => {
   return (

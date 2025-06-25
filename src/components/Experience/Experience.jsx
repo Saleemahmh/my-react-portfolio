@@ -1,6 +1,6 @@
-import React from 'react';
+
 import styles from './Experience.module.css';
-import experiences from '../../data/experience.json';
+import {experiences} from '../../data/experience';
 
 export const Experience = () => {
   return (

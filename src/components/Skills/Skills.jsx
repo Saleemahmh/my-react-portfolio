@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './Skills.module.css';
-import skills from '../../data/skills.json';
-import certfications from '../../data/certification.json';
+import {skills} from '../../data/skills';
+import {certifications} from '../../data/certification';
 export const Skills = () => {
   return (
    <section className={styles.container} id="skills">
@@ -23,7 +23,7 @@ export const Skills = () => {
         </div>
         <ul className={styles.history}>
             {
-                certfications.map((certification,id) => {
+                certifications.map((certification,id) => {
                     return(
                         <li key={id} className={styles.historyItem}>
                             <img src={certification.imageSrc} alt={certification.certificatename}/>
