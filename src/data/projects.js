@@ -12,13 +12,19 @@ export const projects = [
     source: "https://github.com/Saleemahmh/literary-app-project",
   },
   {
-    title: "Portfolio Page",
+    title: "Samee's Portfolio Page",
     imageSrc: portfolioImg,
     description:
-      "This project is made using React to learn and showcase my ability as a Developer",
-    skills: ["React", "Vite", "Npm", "CSS"],
-    demo: "https://www.example.com",
-    source: "https://github.com/Saleemahmh/my-react-portfolio",
+      "This project is made using React Vite to learn and showcase my ability as a Developer",
+    skills: [
+      "ReactVite",
+      "Node",
+      "Tailwind CSS",
+      "framer Motion",
+      "ParticleJs",
+    ],
+    demo: "https://samee-portfolio.vercel.app/",
+    source: "https://github.com/Saleemahmh/samee-portfolio",
   },
   {
     title: "Holiday Rental Portal",
